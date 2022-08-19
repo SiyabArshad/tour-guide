@@ -1,0 +1,6 @@
+module Pods_GallivantingSA {
+  umbrella header "Pods-GallivantingSA-umbrella.h"
+
+  export *
+  module * { export * }
+}
